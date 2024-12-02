@@ -17,4 +17,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashwanthmukka&show_icons=true&theme=dark)
 
 ## Connect
-- LinkedIn: [[Your Profile]](https://www.linkedin.com/in/yashwanthmukka/)
+- LinkedIn: [[Yashwanth Mukka]](https://www.linkedin.com/in/yashwanthmukka/)
